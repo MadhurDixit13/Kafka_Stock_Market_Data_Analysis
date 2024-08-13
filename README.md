@@ -21,6 +21,12 @@ This architecture facilitates the seamless ingestion, processing, and storage of
   - **EC2 (Elastic Compute Cloud)**: For running scalable Kafka brokers and other services.
 - **Apache Kafka**: For real-time data streaming and message queuing.
 
+## Screenshots
+
+![AWS S3 Bucket](s3_bucket.jpg)
+
+![AWS Athena](athena.jpg)
+
 ## Dataset
 
 This project is focused on the operational aspects of Data Engineering, specifically building and managing the data pipeline. You can use any stock market dataset that suits your needs for testing and demonstration purposes.
