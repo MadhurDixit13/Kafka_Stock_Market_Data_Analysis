@@ -23,9 +23,9 @@ This architecture facilitates the seamless ingestion, processing, and storage of
 
 ## Screenshots
 
-![AWS S3 Bucket](s3_bucket.jpg)
+![AWS S3 Bucket](s3_bucket.png)
 
-![AWS Athena](athena.jpg)
+![AWS Athena](athena.png)
 
 ## Dataset
 
